@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.exe
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.deps.json
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.dll
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\bin\Debug\netcoreapp3.1\ReflectionDemo.pdb
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.dll
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.pdb
+C:\Users\Administrator\source\repos\ReflectionDemo\ReflectionDemo\obj\Debug\netcoreapp3.1\ReflectionDemo.genruntimeconfig.cache
